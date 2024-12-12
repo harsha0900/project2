@@ -1,3 +1,3 @@
 # new project
 
-# learnig how to push local git repo to online repos
+# learnig how to push local git repo to online repository.
